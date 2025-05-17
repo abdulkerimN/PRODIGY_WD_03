@@ -7,9 +7,3 @@ A simple and responsive Tic Tac Toe game built with **HTML**, **CSS**, and **Jav
 - Smart AI using Minimax Algorithm
 - Win/draw detection and reset option
 - Clean, responsive UI
-## 🛠️ Run Locally
-
-```bash
-git clone https://github.com/your-username/PRODIGY_WD_03.git
-cd PRODIGY_WD_03
-open index.html
